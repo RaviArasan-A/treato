@@ -1,2 +1,2 @@
-# treato
+# Treato
 online food ordering website
